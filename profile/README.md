@@ -6,7 +6,13 @@ Feel free to just go directly to the website and see how it works: [Timbre Netwo
 
 ## Structure
 
-There are 3 main repositories front-end, contract, and graph. You can ignore the other 3 repositories in this Github organization.
+There are 3 main repositories:
+
+- [front-end](https://github.com/TheTimbreNetwork/front-end)
+- [contract](https://github.com/TheTimbreNetwork/contract)
+- [graph](https://github.com/TheTimbreNetwork/graph)
+
+You can ignore the other 3 repositories in this Github organization.
 
 ## Usage
 
