@@ -12,8 +12,6 @@ There are 3 main repositories:
 - [contract](https://github.com/TheTimbreNetwork/contract)
 - [graph](https://github.com/TheTimbreNetwork/graph)
 
-You can ignore the other 3 repositories in this Github organization.
-
 ## Usage
 
 Our product is currently in Beta and if you'd like access or have any questions or suggestions please contact me on Twitter (https://twitter.com/arshaan_b).
